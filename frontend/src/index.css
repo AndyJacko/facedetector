@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #FFF;
+  font-family: 'Orbitron', sans-serif;
+  text-shadow: 0 0 5px #000;
+  background: linear-gradient(90deg, #000 20%, #490000 40%, #490000 60%, #000 80%);
+}
+
+button {
+  cursor: pointer;
+}
